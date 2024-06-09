@@ -59,6 +59,12 @@
             },
             "editor": "proxy",
             "sectionCaption": "For developers"
+        },
+        "maxItems": {
+            "title": "Max Items",
+            "type": "integer",
+            "description": "Maximum number of items to download",
+            "default": 100
         }
     },
     "required": ["proxy"]
