@@ -1,6 +1,4 @@
 
-
-```markdown
 # Amazon Best Sellers Scraper
 
 Explore the top 100 best-selling items on Amazon with our free Amazon Best Sellers Scraper. Extract key details such as names, prices, URLs, and thumbnails of top items from multiple Amazon domains (.com, .co.uk, .de, .fr, .es, .it).
@@ -75,5 +73,3 @@ Ensure compliance with GDPR and related privacy laws when processing potentially
 - **Email**: [Contact us](mailto:codemasterdevops@gmail.com)
 
 Leverage the insights from Amazon Best Sellers today to stay ahead in your market!
-```
-
